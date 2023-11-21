@@ -12,4 +12,4 @@ The installation for this program is very simple. All that is needed is to downl
 ## Usage
 Again, the usage of this program is also fairly simple.
 * Once running, the program will ask the user to input a path to the desired file (hopefully a pdf), a path to the directory the user wants to save the excel file in, and the name of the generated excel file. After that the program should run and the file should be in the specifiedd directory.
-* The file generated will not have any modifications done to it in excel such as text wrap or cell size modification done in the previous image of an example file.
+* The file generated will not have any modifications done to it. The text wrap and cell size modification appearing in the sample image were done post-program run.
