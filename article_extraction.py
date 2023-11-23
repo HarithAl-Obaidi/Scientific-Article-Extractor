@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 22 14:17:16 2023
-
-@author: haalo
-"""
-
 from PyPDF2 import PdfReader
 import xlsxwriter
 import os
